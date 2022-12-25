@@ -93,7 +93,7 @@ O resultado deve ser exibido na tela..</li>
 <p>
 
     pairaibenterns poberr enterncairair enterssenter dentersaifimesober
-    enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober!
+    enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober
 
 </p>
 
