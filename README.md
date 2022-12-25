@@ -70,14 +70,21 @@ O resultado deve ser exibido na tela..</li>
 
 <h2 align="center">
     <img src="https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo.png" width="35">
-    Projeto gerenciado pelo Trello
+    Projeto gerenciado com o kanban pelo Trello
     <img src="https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo.png" width="35">
 </h2>
-<img src="https://www.imagensanimadas.com/data/media/695/em-construcao-imagem-animada-0038.gif">
+<img src="https://media.discordapp.net/attachments/971775487426855025/1056360049167061082/Screenshot_5.jpg?width=1248&height=671">
+
+<h2 align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968704.png" width="15">
+    Utilização do Figma na transformação do conceito em código 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968704.png" width="15">
+</h2>
+<img src="https://media.discordapp.net/attachments/971775487426855025/1056360048999268433/Screenshot_4.jpg?width=1365&height=671">
 
 <h2 align="center">
 <img src="http://3.bp.blogspot.com/-eJFNPvBv8Vw/U2wjeuyhytI/AAAAAAAAFsA/hdsx0E-jsHs/s1600/Ninja+1.gif" width="40">
-    Codigo ninja
+    Desafio ninja
 <img src="http://3.bp.blogspot.com/-eJFNPvBv8Vw/U2wjeuyhytI/AAAAAAAAFsA/hdsx0E-jsHs/s1600/Ninja+1.gif" width="40">
 </h2>
 <p>
