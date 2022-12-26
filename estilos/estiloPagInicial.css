@@ -317,7 +317,7 @@ footer span a:hover{
         font-size: 33px;
     }
 
-    .encrypt {
+    .boxUm {
         margin: 0;
         padding: 0;
         width: 100%;
@@ -328,10 +328,10 @@ footer span a:hover{
         margin: 40px 10px 10px 40px;
     }
 
-    .main .encrypt .line {
+    .main .boxUm .line {
         font-size: 30px;
     }
-    .info {
+    .dados {
         margin: 0 0 10px 0;
     }
 
@@ -339,7 +339,7 @@ footer span a:hover{
         width: 45%;
     }
 
-    #decrypt {
+    #tradutor {
         width: 92vw;
         height: 92vw;
         margin-bottom: 15px;
@@ -349,12 +349,12 @@ footer span a:hover{
         font-size: 25px;
         margin: 20px 0 20px;
     }
-    #txt-area2 {
+    #textoDois {
         font-size: 20px;
         text-align: center;
         height: 20vh;
     }
-    #txt-area2::placeholder {
+    #textoDois::placeholder {
         font-size: 20px;
         text-align: center;
     }
@@ -370,18 +370,6 @@ footer span a:hover{
         bottom: 0;
     }
 
-    .redes-sociais a img {
-        width: 40px;
-        height: 40px;
-        margin: 5px;
-        border-radius: 100%;
-        padding: 8px;
-    }
-
-    .redes-sociais a:hover {
-    transform: scale(1.5);
-    }
-
 }
 
 @media (max-width: 375px) /*Celular*/ {
@@ -391,16 +379,17 @@ footer span a:hover{
     }
     .buttons {
         flex-direction: column;
-        margin: 10px 0 10px 0;
+        margin: 10px 10px 10px 0px;
         height: 125px;
     }
 
     .button {
-        width: 100%;
+        width: 80%;
     }
 
     .icone {
-        width: 50%;
+        
+        width: 65%;
         margin: -40px;
 
     }
@@ -421,40 +410,47 @@ footer span a:hover{
     .main {
         margin: -40px 20px 60px 20px
     }
-    .main .encrypt .line {
+    .main .boxUm .line {
         font-size: 25px;
     }
-    .encrypt {
+    .boxUm {
         margin: 45px 27px;
         padding: 0px;
         width: 100%;
     }
-    #decrypt {
-        margin: 30px 53px 20px;
+    #tradutor {
+        /* margin: 30px 53px 20px;
         padding: 0;
         margin-bottom: 15px;
+        width: 375; */
+        width: 83vw;
+        height: 83vw;
+        margin-bottom: 15px;
+
     }
 
     .btn-3 {
-        width: 85vw;
-    }
+        width: 53vw;
+        height: 13vw
+        ;    }
 
     #none {
         font-size: 20px;
         margin: 0px 0 0px;
     }
 
-    #txt-area2 {
+    #textoDois {
         font-size: 16px;
-        height: 100px;
+        height: 186px;
         margin: 0 0 15px;
     }
 
-    #txt-area2::placeholder {
+    #textoDois::placeholder {
         font-size: 18px;
     }
     
     footer {
+        position: flex;
         text-align: center;
         flex-direction: column;
         justify-content: space-between;
