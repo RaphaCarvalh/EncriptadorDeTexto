@@ -66,7 +66,10 @@ O resultado deve ser exibido na tela..</li>
     Aqui você poderá acessar o projeto direto no GitHub Pages!
     <img src="https://moduslaborandi.net/images/2015/05/github.pages.jpg" width="35">
 </h2>
-<img src="https://www.imagensanimadas.com/data/media/695/em-construcao-imagem-animada-0038.gif">
+<h2 align="center">
+https://raphacarvalh.github.io/EncriptadorDeTexto/
+</h2>
+<img src="https://media.discordapp.net/attachments/971775487426855025/1056933070760071279/image.png?width=1139&height=670">
 
 <h2 align="center">
     <img src="https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo.png" width="35">
